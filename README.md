@@ -1,5 +1,5 @@
 Mechanical Engineer 👋
-
+Software Engineer
 <!--
 **js-hwi/js-hwi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
